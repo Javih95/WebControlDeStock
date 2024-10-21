@@ -1,0 +1,134 @@
+
+:root {
+    --colorPrimario: #007BFF; /* Azul */
+    --colorBack: #F8F9FA; /* Gris claro */
+    --colorText: #343A40; /* Gris oscuro */
+    --colorFondo: #fff;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: var(--colorBack);
+    color:var(--colorText);
+}
+main{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+header {
+
+    background-color:#a3a8ad ;
+    padding:10px;
+    margin-bottom:20px;
+}
+section{
+    margin-top: 20px;
+}
+nav
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+nav .Home {
+    flex: 1;
+}
+nav .funcionalidades{
+flex: 2;
+
+}
+.Login{
+    flex:3;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+.Login li {
+    margin: 0 15px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+font-weight: bold;
+}
+.Bienvenida, .Destacado , .Funcionalidades{ 
+    text-align: left ;
+    padding: 35px;
+    background-color: var(--colorFondo);
+}
+.Bienvenida h1{
+    color: var(--colorPrimario);
+}
+h1{
+    text-align: center ;
+}
+h2{
+    text-align: center ;
+}
+p{
+ padding: 15px;
+}
+.CardsContendedor {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+.card {
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    background-color: white;
+    text-align: center;
+}
+.card img {
+    width: 100%; 
+    height: auto;
+}
+.Funcionalidades a{
+    text-decoration: none;
+    color: var(--colorText) ;
+}
+.Formulario{
+    text-align: left;
+    background-color: var(--colorFondo);
+    margin-left: 20px;
+}
+.Titulo{
+    padding: 30px;
+    text-align: center;
+    background-color: var(--colorFondo);
+}
+.Titulo iframe{
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+}
+.listaDeFuncionalidades p{
+    padding: 0;
+}
+.listaDeFuncionalidades li{
+    margin-top: 20px
+}
+.listaDeFuncionalidades{
+    padding: 30px;
+    background-color: var(--colorFondo);
+}
+.listaDeFuncionalidades li h2{
+    text-align: left;
+}
+footer{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
