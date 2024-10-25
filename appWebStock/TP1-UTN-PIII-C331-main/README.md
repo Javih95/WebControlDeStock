@@ -24,10 +24,10 @@ El objetivo de este trabajo práctico es que los estudiantes compartan su experi
 En base a su experiencia en el desarrollo de la parte práctica del TP1
 
 - ¿Hay alguna mejora que pueda hacer en su envío? (TP1)<br/>
-  `Responde aquí`<br/><br/>
+  Aplicar Bootstrap para un menú desplegable en mi navbar y aplicaría media queries en el mismo para hacerlo responsive. `<br/><br/>
 - ¿Qué haría de manera diferente si se le asignara más tiempo?<br/>
-  `Responde aquí`<br/><br/>
+  Realizaría animaciones con CSS, por ejemplo, en el grid. <br/><br/>
 - En su trabajo, ¿cuál considera que fue lo más difícil de realizar?<br/>
-  `Responde aquí`<br/><br/>
+   Mantener la coherencia en las etiquetas para que sean semánticas. <br/><br/>
 - En las entregas, detectamos una gran variedad de temáticas únicas e interesantes. ¿Podría decirnos en qué se inspiró para realizar su página web? ¿Utilizó alguna página existente como referencia?<br/>
-  `Responde aquí`<br/><br/>
+  Hice mi página web para mostrar un proyecto propio realizado en .NET, el cual me gustaría convertir en una herramienta web. br/><br/>
