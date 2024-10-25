@@ -30,4 +30,5 @@ En base a su experiencia en el desarrollo de la parte práctica del TP1
 - En su trabajo, ¿cuál considera que fue lo más difícil de realizar?<br/>
    Mantener la coherencia en las etiquetas para que sean semánticas. <br/><br/>
 - En las entregas, detectamos una gran variedad de temáticas únicas e interesantes. ¿Podría decirnos en qué se inspiró para realizar su página web? ¿Utilizó alguna página existente como referencia?<br/>
-  Hice mi página web para mostrar un proyecto propio realizado en .NET, el cual me gustaría convertir en una herramienta web. br/><br/>
+  Hice mi página web para mostrar un proyecto propio realizado en .NET, el cual me gustaría convertir en una herramienta web.  <br/><br/>
+PD:tuve un problema con mi Pc por lo cual mi proyecto quedo inconcluso y no presenta los archivos correspondientes, utilice placeholders para maquetarlo lo mejor posible.
